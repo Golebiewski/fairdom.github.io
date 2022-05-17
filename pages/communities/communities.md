@@ -27,7 +27,7 @@ redirect_from:
 
 ### Medical Informatics
 
-* [NFDI4Health](https://seek.studyhub.nfdi4health.de/)
+* [NFDI4Health](https://covid19.studyhub.nfdi4health.de/)
 * [Leipzig Health Atlas](https://www.health-atlas.de)
 
 ### Drug discovery
