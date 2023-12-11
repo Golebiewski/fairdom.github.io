@@ -27,7 +27,7 @@ redirect_from:
 
 ### Medical Informatics
 
-* [NFDI4Health](https://seek.studyhub.nfdi4health.de/)
+* [NFDI4Health Local Data Hub](https://www.nfdi4health.de/en/service/local-data-hub.html)
 * [Leipzig Health Atlas](https://www.health-atlas.de)
 
 ### Drug discovery
